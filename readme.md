@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Anedal Elearning<br>🌱 I’m currently learning WASM<br>💬 Ask me about React, Vue React Query<br>⚡ Fun fact i think i'm psychopath
+🔭 I’m currently working on Mobile Application: PillarStack with Flutter<br>💬 Ask me about React, Flutter, React native, Vue React Query<br>⚡ Fun fact i think i'm psychopath
 
 
 ## 🌐 Socials:
