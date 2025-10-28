@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/aubigo" target="blank"><img src="https://img.shields.io/twitter/follow/aubigo?logo=twitter&style=for-the-badge" alt="aubigo" /></a> </p>
 
-- 🔭 I’m currently working on [Beestack (aka smilley)](https://www.smilley.xyz/)
+- 🔭 I’m currently working on [Servelink](https://servel.ink/)
 
-- 👨‍💻 All of my projects are available at [https://zenderock.me/](https://zenderock.me/)
-
-- 📝 I regularly write articles on [https://www.zenderock.me/blog](https://www.zenderock.me/blog)
+- 👨‍💻 All of my projects are available at [https://aubigo.com/](https://aubigo.com/)
 
 - 💬 Ask me about **Frontend frameworks, Mobile framework, Laravel, Symfony, TailwindCSS, Framer motion**
 
-- 📫 How to reach me **contact@zenderock.me**
+- 📫 How to reach me **zenderock@servel.ink**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rINFeKCXZdTjxv3kPy6yI18plf4oSIhP/view?usp=sharing](https://drive.google.com/file/d/1rINFeKCXZdTjxv3kPy6yI18plf4oSIhP/view?usp=sharing)
 
